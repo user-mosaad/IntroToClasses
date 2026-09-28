@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\cs14net10\IntroToClasses\IntroToClasses\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\cs14net10\IntroToClasses\IntroToClasses\.editorconfig" />
+  </ItemGroup>
+
 </Project>
